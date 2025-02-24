@@ -6,7 +6,7 @@ Remedia Pharmaceuticals is an e-commerce platform where multiple vendors can lis
 ## Live Link
 
 Check out the live demo of the project:  
-🔗 [Live Site](https://your-live-site-url.com)
+🔗 https://remedia-pharmaceuticals-vansham-bansals-projects.vercel.app/
 
 ---
 
